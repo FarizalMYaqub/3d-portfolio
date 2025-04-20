@@ -25,7 +25,7 @@ export const navLinks = [
 
 const experiences = [
   {
-    title: "YouTube Content Creator",
+    title: "Students",
     company_name: "Self Employed",
     date: "2016 - Present",
     details: [
@@ -35,7 +35,7 @@ const experiences = [
     ],
   },
   {
-    title: "Software Developer",
+    title: "Designer",
     company_name: "Indie",
     date: "2019 - 2023",
     details: [
@@ -45,7 +45,7 @@ const experiences = [
     ],
   },
   {
-    title: "Software Engineer",
+    title: "UI Designer",
     company_name: "Prime 3",
     date: "2018 - 2019",
     details: [
@@ -55,7 +55,7 @@ const experiences = [
     ],
   },
   {
-    title: "Computer Science",
+    title: "Thinking",
     company_name: "ODU",
     date: "2015 - 2018",
     details: [
